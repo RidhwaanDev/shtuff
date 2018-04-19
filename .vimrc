@@ -40,7 +40,7 @@ filetype plugin indent on    " required
 "filetype plugin on
 "
 "
-"autocmd vimenter * NERDTree"
+autocmd vimenter * NERDTree
 set number
 set rnu
 if !exists('g:airline_symbols')
